@@ -2,3 +2,6 @@ New Test File this has been created on "github-sharad" Repository and via GUI Pr
 
 All of a sudden a though popped in my mind to edit this and add something cool
 So why not test it right away.
+
+Sharad we also need to add more functionality to this Text File to make it more meaningful. 
+Thanks for the work ! Chao
