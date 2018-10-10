@@ -1,1 +1,3 @@
 New File Created Dated 10th Oct18
+
+Adding Text in GUI 
